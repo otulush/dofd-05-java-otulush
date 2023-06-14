@@ -1,3 +1,4 @@
+[![CI](https://github.com/otulush/dofd-05-java-otulush/actions/workflows/main.yml/badge.svg)](https://github.com/otulush/dofd-05-java-otulush/actions/workflows/main.yml)
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
