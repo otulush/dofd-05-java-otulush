@@ -1,9 +1,14 @@
 name: CI
+
 on:
   push:
     branches:
       - master
       - jenk
+  pull_request:
+    types:
+      - opened
+      - synchronize
 
 jobs:
   my_first_job:
